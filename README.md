@@ -4,7 +4,7 @@ Submitted by: **Jaime Nunez**
 
 This web app: **is a video game discovery tool, similar to the now-defunct StumbleUpon. Users click a "Discover!" button to fetch a random video game from the RAWG Video Games Database API, displaying the game's image along with its genre, platform, release year, and rating. Users can click on attributes (genre, platform, or release year) to add them to a ban list, preventing games with those attributes from appearing in future results. The app also keeps a running history of every game viewed during the session.**
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -43,9 +43,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a video walkthrough of implemented user stories:
 
-<img src='[YOUR GIF LINK HERE]' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+**[Watch the walkthrough](https://www.loom.com/share/8766d0f3d75e4008875cb5e72f3fca81)**
 
 ## Notes
 
